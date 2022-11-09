@@ -1,6 +1,6 @@
 # ytdlbot
 
-[![docker image](https://github.com/tgbot-collection/ytdlbot/actions/workflows/builder.yaml/badge.svg)](https://github.com/tgbot-collection/ytdlbot/actions/workflows/builder.yaml)
+[![docker image](https://github.com/sivaparvathigoli5/ytdlbot/actions/workflows/builder.yaml/badge.svg)](https://github.com/sivaparvathigoli5/ytdlbot/actions/workflows/builder.yaml)
 
 YouTube Download Bot🚀
 
